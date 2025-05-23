@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ruleset name="CustomPSR12">
+    <rule ref="PSR12">
+        <exclude name="PSR12.Functions.ReturnTypeDeclaration" />
+    </rule>
+</ruleset>
